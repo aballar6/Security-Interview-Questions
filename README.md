@@ -15,3 +15,4 @@
 * How would you secure developer built containers before they are pushed to prod
 * How would you build and maintain relationships with members of your team and vendors 
 * What security controls would you recommend to a friend who keeps getting their social media accounts hacked 
+* Explain an instance where you took a application to serverless or containized it (EC2->Lambda)
